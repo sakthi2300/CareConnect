@@ -98,4 +98,4 @@ The frontend will start on `http://localhost:4200` and communicate with the back
 - Add proper frontend components, routing, and UI for all modules.
 - Add monitoring and observability (Actuator, Prometheus, Grafana).
 - Add support for push/email/SMS notifications.
-
+.....................................................................................................................................
