@@ -99,3 +99,4 @@ The frontend will start on `http://localhost:4200` and communicate with the back
 - Add monitoring and observability (Actuator, Prometheus, Grafana).
 - Add support for push/email/SMS notifications.
 .....................................................................................................................................
+commit -1
